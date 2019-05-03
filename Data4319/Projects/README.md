@@ -1,4 +1,4 @@
-# Size Limit [![title](ML_pic.png)
+[![ML image](ML_pic.png)
 
 ## Projects are as follows:
 
