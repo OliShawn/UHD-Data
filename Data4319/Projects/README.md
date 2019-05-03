@@ -1,4 +1,4 @@
-Folder for all of our classroom projects.
+# Size Limit [![title](ML_pic.png)
 
 ## Projects are as follows:
 
