@@ -1,4 +1,6 @@
-# Size Limit [![title](ML_pic.png)
+![ML image](ML_pic.png)
+# Data 4319 - Statistical and Machine Learning
+
 
 ## Projects are as follows:
 
